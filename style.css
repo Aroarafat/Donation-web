@@ -1,0 +1,190 @@
+body
+{
+font-family: 'Aboreto', cursive;
+margin: 0;
+}
+.first-section
+{
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.first-heading
+{
+    padding-top: 170px;
+    text-align: center;
+    color:rgb(8, 204, 218);
+    font-size: 40px;
+}
+.first-paragraph
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(15, 163, 221);
+}
+.donate-button
+{
+   border-radius: 7px;
+   padding:10px 20px;
+   background-color: rgb(18, 207, 198);  
+   color: aliceblue;
+   margin-top: 10px;
+   margin-left: 600px;        
+}
+.second-section
+{
+     margin-top: 10px;
+}
+.second-heading
+{
+    padding-top: 170px;
+    text-align: center;
+    color: rgb(8, 204, 218);
+    font-size: 40px;
+}
+.second-paragraph
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(15, 163, 221);
+}
+.donate-amount
+{
+    display: flex; 
+    justify-content: space-evenly;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.first-amount
+{
+   background-color: antiquewhite;
+   padding: 25px 10px;
+}
+.second-amount 
+{
+    background-color: rgb(60, 187, 209);
+    padding: 25px 10px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.third-amount 
+{
+    background-color: antiquewhite;
+    padding: 25px 10px;
+}
+.fourth-amount
+ {
+    background-color: antiquewhite;
+    padding: 25px 10px;
+}
+.fifth-amount
+ {
+    background-color: antiquewhite;
+    padding: 25px 10px;
+}
+.other-amount
+{
+    margin-left: 570px;
+}
+hr{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.third-heading 
+{
+    padding-top: 170px;
+    text-align: center;
+    color: rgb(8, 204, 218);
+    font-size: 40px;
+}
+
+.third-paragraph 
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(15, 163, 221);
+}
+.third-section-plan
+{
+display: flex ;
+margin-left: 150px;
+margin-right: 150px;
+margin-top: 60px;
+justify-content: space-around;
+
+}
+.third-section-food-divtag
+{
+    background-color: rgb(241, 244, 247);
+    text-align: justify;
+    padding: 50px;
+}
+.third-section-family-divtag {
+    background-color: rgb(176, 248, 182);
+    text-align: justify;
+    padding: 50px;
+    margin-left: 15px;
+}
+.third-section-education-divtag {
+    background-color: rgb(236, 181, 220);
+    text-align: justify;
+    padding: 50px;
+    margin-left: 15px;
+}
+.fourth-section
+{
+    display: flex;
+    margin-left: 145px;
+    margin-right: 180px;
+    margin-top: 130px;
+}
+.contribute-button
+{
+    border-radius: 7px;
+    padding: 10px 20px;
+    background-color: rgb(18, 207, 198);
+    color: aliceblue;
+}
+
+.fifth-section 
+{
+    display: flex;
+    margin-left: 145px;
+    margin-right: 180px;
+    margin-top: 130px;
+}
+.sixth-section
+{
+background-color: rgb(37, 119, 119);
+padding: 50px;
+margin-left: 250px ;
+margin-right: 250px;
+margin-top: 60px;
+}
+.sixth-heading {
+    padding-top: 170px;
+    text-align: center;
+    color: rgb(8, 204, 218);
+    font-size: 40px;
+}
+.sixth-paragraph
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(92, 176, 209);
+}
+.email-tag
+{
+    margin-left: 200px;
+    padding: 10px 65px;
+    
+}
+.footer
+{
+    padding-top: 80px;
+    text-align: center;
+    color: rgb(232, 250, 252);
+    background-color: rgb(37, 119, 119);
+    margin-top: 80px;
+}
